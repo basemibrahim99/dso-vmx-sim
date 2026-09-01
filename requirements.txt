@@ -1,0 +1,6 @@
+pandas
+numpy
+faker
+scikit-learn
+sqlalchemy
+psycopg2-binary
